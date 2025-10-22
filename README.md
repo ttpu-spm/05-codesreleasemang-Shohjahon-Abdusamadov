@@ -34,5 +34,3 @@ _Here you should put the URL of your final repository after finishing the given 
 2. Release based workflow: https://github.com/Shohjahon-Abdusamadov/skills-release-based-workflow
 3. Useful Tips in Github:  https://github.com/Shohjahon-Abdusamadov/skills-connect-the-dots
 4. Code with GitHub Codespaces: https://github.com/Shohjahon-Abdusamadov/skills-code-with-codespaces
-
-
